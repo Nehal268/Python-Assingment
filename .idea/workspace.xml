@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1abb20b-cb4e-4d7f-8167-066767679372" name="Changes" comment="Assingments">
-      <change afterPath="$PROJECT_DIR$/Week3 Assingment/ch4 exercise 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week3 Assingment/ch4 exercise 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week3 Assingment/exercise 1 ch3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week3 Assingment/exercise 2 ch3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week3 Assingment/exercise 3 ch3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week3 Assingment/exercise 4 ch3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 4 Assingment/CH4-EX3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 4 Assingment/CH4-EX4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 4 Assingment/CH4-EX5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 4 Assingment/CH5-EX1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 4 Assingment/CH5-EX2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 4 Assingment/CH5-EX3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 4 Assingment/CH5-EX4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 5 Assingment/CH6-EX1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 5 Assingment/CH6-EX3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 5 Assingment/CH6-EX5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 5 Assingment/CH6-EX6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 5 Assingment/CH7-EX1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +91,9 @@
       <updated>1725807832894</updated>
       <workItem from="1725807836307" duration="345000" />
       <workItem from="1725817037998" duration="2180000" />
-      <workItem from="1725938887587" duration="408000" />
+      <workItem from="1725938887587" duration="789000" />
+      <workItem from="1727015228353" duration="15000" />
+      <workItem from="1727018208562" duration="622000" />
     </task>
     <task id="LOCAL-00001" summary="Assingments">
       <option name="closed" value="true" />
@@ -95,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725818356880</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Assingments">
+      <option name="closed" value="true" />
+      <created>1725939492090</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725939492090</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
